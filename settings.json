@@ -1,0 +1,10 @@
+{
+  "attack_zones": false,
+  "all_paths": true,
+  "city_resources": true,
+  "base_zone": false,
+  "shields": true,
+  "frontline": true,
+  "unit_hp": false,
+  "info_panel": true
+}
